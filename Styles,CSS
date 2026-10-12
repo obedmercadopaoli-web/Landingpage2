@@ -1,0 +1,36 @@
+/* Colores graffiti */
+.bg-graffiti-pink { background-color: #FF4F8B; }
+.bg-graffiti-blue { background-color: #3FA9F5; }
+
+.btn-graffiti {
+    background-color: #FF4F8B;
+    color: white;
+    border: 2px solid #F9E547;
+    font-weight: bold;
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+
+.division {
+    width: 80%;
+    height: 3px;
+    background-color: #F9E547;
+    margin: 30px auto;
+    border-radius: 5px;
+}
+
+.graffiti-card {
+    background-color: #3FA9F5;
+    color: #1A1A1A;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.graffiti-img {
+    border-width: 4px !important;
+}
+
+.graffiti-form {
+    background-color: #3FA9F5;
+    max-width: 400px;
+}
